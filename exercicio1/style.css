@@ -1,0 +1,30 @@
+@charset "UTF-8";
+body {
+    color: #ffffff;
+
+}
+#primeiro_paragrafo_pseudoelemento {
+    width:400px;
+    height:200px;
+    background-color: #ff0000;
+
+}
+
+#exemplo_dois {
+    width:400px;
+    height:200px;
+    margin-top:30px;
+    margin-left: 50px;
+    margin-bottom:12 ;
+    padding: 26px;
+    padding-bottom:26px ;
+    background-color:#0000ff;
+    border: 10px solid #000000;
+}
+
+#final {
+    width:400px;
+    height: 200px;
+    background-color: #008000;
+
+}
