@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+
+    {
+      "name": "(lldb) Anexar",
+      "type": "cppdbg",
+      "request": "attach",
+      "program": "insira o nome do programa, por exemplo ${workspaceFolder}/a.out",
+      "MIMode": "lldb"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/w1661an/Documents/programa-o_com_linguagem_c/Programação C/Modularização",
+      "program": "/Users/w1661an/Documents/programa-o_com_linguagem_c/Programação C/Modularização/build/Debug/outDebug"
+    }
+  ]
+}
